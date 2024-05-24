@@ -1,0 +1,24 @@
+{
+    "name": "dynamic_server",
+    "description": "Dynamic Server",
+    "version": "1.0.0",
+    "author": {
+        "name": "Adrian Ramirez",
+        "email": "rami7282@stthomas.edu"
+    },
+    "contributors": [
+        "Rainsei Chetana",
+        "Nate G."
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/adrian-rmrz/webdev-dynamic"
+
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "plotly.js-dist": "^2.27.0",
+        "plotly.js-dist-min": "^2.27.0",
+        "sqlite3": "^5.1.6"
+    }
+}
