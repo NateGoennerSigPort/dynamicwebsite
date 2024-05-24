@@ -1,2 +1,3 @@
-# Web Dev - Dynamic Server
-Dynamic Server Starter Code for Web Development Course
+This is a website which dynamically populates its displayed data from a database. To turn this you will need the files in the repository and put them into a file of your own. You will then need to open this file with an IDE. The respository does not come with node js, so you will need to also install that. From there you will need to run the name of your all encompassing file with node. This will launch the website onto a local host. 
+
+The database information is concerned with the impacts of sleeping alone versus with a partner. It provides a few graphs, and allows one to sort through the database by location, relationship, and gender. 
